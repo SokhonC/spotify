@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://spotify-sokhon.vercel.app/api/spotify)](https://open.spotify.com/user/31ocb3ub45yt75qik5c264nnigjm)"
+&nbsp; <br> [![Spotify](https://sokhonc.vercel.app/api/spotify)](https://open.spotify.com/user/31ocb3ub45yt75qik5c264nnigjm)"
 
   </td>
   <td width="50%">
